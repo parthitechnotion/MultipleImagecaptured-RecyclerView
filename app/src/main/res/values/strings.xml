@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultipleImageCapturedAndDisplay</string>
+
+
+    <string name="photo_library">Photo Library</string>
+    <string name="camera">Camera</string>
+    <string name="btn_text_cancel">Cancel</string>
+    <string name="btn_text_ok">OK</string>
+    <string name="library">Library</string>
+    <string name="photo_normal">Photos</string>
+    <string name="videos_normal">Videos</string>
+    <string name="select_a_picture_from">Select a picture from</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="external_storage_permission">External Storage access and Camera permissions required for this app</string>
+    <string name="go_to_setting_and_enable_permission">Go to settings and enable permissions</string>
+</resources>
